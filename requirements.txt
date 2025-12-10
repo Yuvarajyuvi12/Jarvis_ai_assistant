@@ -1,0 +1,6 @@
+eleven lab
+py auido
+openai
+dotevn
+pillow
+langchain_community
